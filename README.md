@@ -1,6 +1,6 @@
 # playground #
 
- experiment application using [golang](golang.org) 
+ experimental project using [golang](golang.org) 
 
 ### Requerment Summary:
 
@@ -19,7 +19,6 @@ go get https://github.com/malfanmh/playground
 ```
 
 
-
  ### Feature :
 - pg01 : simple aplication using [`flags`](https://godoc.org/flag) to process sum, multyply, generte fibonnaci and generate prime serries
-- pg02 : calculate median from two sorted arrays
+- pg02 : calculate median between two sorted arrays
